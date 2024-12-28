@@ -10,8 +10,8 @@ first_name: Connor
 last_name: Casey
 
 # Status emoji
-status:
-  icon: ☕️
+#tatus:
+ #icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergrduate Student
+role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
