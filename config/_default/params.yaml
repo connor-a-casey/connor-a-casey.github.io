@@ -39,6 +39,7 @@ header:
 
 # Site footer
 footer:
+  block: minimal 
   copyright:
     notice: '© {year} Connor Casey. This work is licensed under {license}'
     license:
