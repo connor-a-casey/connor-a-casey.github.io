@@ -43,9 +43,9 @@ profiles:
     url: https://scholar.google.com/citations?user=drvNYDUAAAAJ&hl=en&authuser=1
 
 interests:
-  - Quantum Networking
+  - Quantum Networking and Distributed Quantum Systems
   - Quantum Error Correction (QEC)
-  - Quantum Optics
+  - Quantum Optics and Light-Matter Interactions
   - Design and Optimization of Quantum Repeaters
   - Integrated Photonics for Scalable Quantum Networks
 
