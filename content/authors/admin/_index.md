@@ -25,13 +25,13 @@ role: Undergrduate Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Massachusetts Amherst
-    url: https://openai.com/
+    #url: tbd
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:cacasey@umass.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/_connor_casey 
@@ -44,8 +44,10 @@ profiles:
 
 interests:
   - Quantum Networking
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Error Correction (QEC)
+  - Quantum Optics
+  - Design and Optimization of Quantum Repeaters
+  - Integrated Photonics for Scalable Quantum Networks
 
 education:
   - area: PhD Artificial Intelligence
@@ -178,5 +180,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Connor Casey is a junior at the University of Massachusetts Amherst, where he pursues a multidisciplinary curriculum in physics, computer science, mathematics, philosophy, and finance. His research interests focus on quantum networking, quantum error correction, and quantum optics, with an emphasis on enhancing the reliability and scalability of quantum communication systems. Under the mentorship of Professors Don Towsley and Filip Rozpedek at the Advanced Classical and Quantum Information Research Lab (ACQuIRe)—part of the NSF-funded Center for Quantum Networks (CQN)—he is developing a novel hybrid discrete-continuous variable quantum repeater architecture for intersatellite quantum communication. In the future, he hopes to continue working on problems related to distributed quantum computing and the quantum internet.
