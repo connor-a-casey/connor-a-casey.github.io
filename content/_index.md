@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: "#000000"
         image:
           # Add your image background to `assets/media/`.
           filename: giphy.gif
