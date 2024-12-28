@@ -1,5 +1,5 @@
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
+    window.onload = function() {
       let bg = document.getElementById('page-bg');
       bg.style.setProperty('will-change', 'filter', '');
       let hue = 0;
@@ -19,6 +19,6 @@
           bg.style.setProperty('filter', 'hue-rotate(' + hue + 'deg)', '');
         }
       }, (5000 / 360.));
-    });
+    }
     </script>
     
