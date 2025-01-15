@@ -1,6 +1,6 @@
 ---
 title: Beyond the Atom
-date: 2024-04-02
+date: 2024-08-02
 external_link: https://beyondtheatom.substack.com/
 tags:
   - Philosophy
