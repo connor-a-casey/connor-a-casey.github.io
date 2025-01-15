@@ -1,13 +1,11 @@
 ---
 title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+date: 2024-04-02
+external_link: https://github.com/connor-a-casey/foundational-ai-model-benchmarking/blob/main/blog/long_context_compare.md
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Aritifical Intelligence
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Structured Data Extraction with Long Context: Comparing GPT-4 with Claude 3 Variants
 
 <!--more-->

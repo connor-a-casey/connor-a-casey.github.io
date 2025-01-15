@@ -48,37 +48,22 @@ interests:
   - Integrated Photonics for Scalable Quantum Networks
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor's Degree
+    institution: University of Massachusetts Amherst
+    date_start: 2020-09-01
+    date_end: 2026-05-31
+  ##      summary: |
+    ##  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+   ## button:
+     ## text: 'Read Thesis'
+      ##url: 'https://example.com'
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.94/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Maths: Ordinary Differential Equations, Linear Algebra, Calc I-III, Probability Theory, Bayesian Decision Theory
+      - Computer Science: Data Structures and Algorithms, Computer Systems, Quantum Networking (Self-Studying), Quantum Computation & Information (Self-Studying)
+      - Physics: Introduction to Waves & Quantum Mechanics, Classical Mechanics 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
