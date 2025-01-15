@@ -5,7 +5,5 @@ external_link: https://connorcasey.substack.com/
 tags:
   - Startups
 ---
-
 Writing about all things compute infrastructure and deep tech
-
 <!--more-->

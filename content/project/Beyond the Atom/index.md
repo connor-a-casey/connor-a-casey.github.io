@@ -5,7 +5,6 @@ external_link: https://beyondtheatom.substack.com/
 tags:
   - Philosophy
 ---
-
 Debating at the intersection of philosophy x tech x science 
 
 <!--more-->
