@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Exploring Startups, Deep Tech, and the Philosophy of Physics
+      title: Topics Top of Mind
       filters:
         folders:
           - project
