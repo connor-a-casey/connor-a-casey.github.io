@@ -12,7 +12,6 @@ sections:
   - block: collection
     content:
       title: Exploring Startups, Deep Tech, and the Philosophy of Physics
-      text: Writing at the intersection of startups x tech x philosophy
       filters:
         folders:
           - project
