@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Blogs'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Exploring Startups, Deep Tech, and the Philosophy of Physics
+      text: Writing at the intersection of startups x tech x philosophy
       filters:
         folders:
           - project
