@@ -42,10 +42,10 @@ profiles:
 
 interests:
   - Quantum Networking and Distributed Quantum Systems
-  - Quantum Error Correction (QEC)
   - Quantum Optics and Light-Matter Interactions
   - Design and Optimization of Quantum Repeaters
   - Integrated Photonics for Scalable Quantum Networks
+  - Quantum Error Correction (QEC)
 
 education:
   - area: Bachelor's Degree
@@ -79,4 +79,4 @@ work:
 ---
 
 ## About Me
-Connor Casey is a junior at the University of Massachusetts Amherst, where he pursues a multidisciplinary curriculum in physics, computer science, mathematics, philosophy, and finance. His research interests focus on quantum networking, quantum error correction, and quantum optics, with an emphasis on enhancing the reliability and scalability of quantum communication systems. Under the mentorship of Professors Don Towsley and Filip Rozpedek at the Advanced Classical and Quantum Information Research Lab (ACQuIRe)—part of the NSF-funded Center for Quantum Networks (CQN)—he is developing a novel hybrid discrete-continuous variable quantum repeater architecture for intersatellite quantum communication. In the future, he hopes to continue working on problems related to distributed quantum computing and the quantum internet.
+Connor Casey is a junior at the University of Massachusetts Amherst, where he pursues a multidisciplinary curriculum in physics, computer science, mathematics, philosophy, and finance. His research interests focus on quantum networking, quantum error correction, and quantum optics, with an emphasis on enhancing the reliability and scalability of quantum communication systems. Under the mentorship of Professors Don Towsley at the Advanced Classical and Quantum Information Research Lab (ACQuIRe)—part of the NSF-funded Center for Quantum Networks (CQN)—he is developing an innovative satellite repeater chain architecture that utilizes entanglement for intersatellite quantum communication, facilitating a comparison between entanglement-based and QEC-based satellite chains. In the future, he hopes to continue working on problems related to distributed quantum computing and the quantum internet.
