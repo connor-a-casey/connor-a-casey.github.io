@@ -41,7 +41,7 @@ profiles:
     url: https://scholar.google.com/citations?user=drvNYDUAAAAJ&hl=en&authuser=1
 
 interests:
-  - Quantum Networking and Distributed Quantum Systems
+  - Quantum Networking
   - Quantum Optics and Light-Matter Interactions
   - Design and Optimization of Quantum Repeaters
   - Integrated Photonics for Scalable Quantum Networks
@@ -63,7 +63,7 @@ education:
       Courses included:
       - Maths: Ordinary Differential Equations, Linear Algebra, Calc I-III, Probability Theory, Bayesian Decision Theory
       - Computer Science: Data Structures and Algorithms, Computer Systems, Quantum Networking (Self-Studying), Quantum Computation & Information (Self-Studying)
-      - Physics: Introduction to Waves & Quantum Mechanics, Classical Mechanics 
+      - Physics: Introduction to Waves & Quantum Mechanics, Newtonian Mechanics 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -79,4 +79,4 @@ work:
 ---
 
 ## About Me
-Connor Casey is a junior at the University of Massachusetts Amherst, where he pursues a multidisciplinary curriculum in physics, computer science, mathematics, philosophy, and finance. His research interests focus on quantum networking, quantum error correction, and quantum optics, with an emphasis on enhancing the reliability and scalability of quantum communication systems. Under the mentorship of Professors Don Towsley at the Advanced Classical and Quantum Information Research Lab (ACQuIRe)—part of the NSF-funded Center for Quantum Networks (CQN)—he is developing an innovative satellite repeater chain architecture that utilizes entanglement for intersatellite quantum communication, facilitating a comparison between entanglement-based and QEC-based satellite chains. In the future, he hopes to continue working on problems related to distributed quantum computing and the quantum internet.
+Connor Casey is a junior at the University of Massachusetts Amherst, where he pursues a multidisciplinary curriculum in physics, computer science, mathematics, philosophy, and finance. His research interests focus on quantum networking, quantum error correction, and quantum optics, with an emphasis on enhancing the reliability and scalability of quantum communication systems. Under the mentorship of Professors Don Towsley and Filip Rozpedek at the Advanced Classical and Quantum Information Research Lab (ACQuIRe)—part of the NSF-funded Center for Quantum Networks (CQN)—he is benchmarking entanglement-based and QEC-based satellite repeater chains. On the experiemental side, he is working with Professor Rajveer Nehra at the Quantum Information Systems Lab on topics related to quantum optics and nanophotonics. In the future, he hopes to continue working on problems related to distributed quantum computing and the quantum internet.
