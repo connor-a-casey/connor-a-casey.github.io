@@ -48,7 +48,7 @@ interests:
   - Quantum Error Correction (QEC)
 
 education:
-  - area: Bachelor's Degree
+  - area: BSc Quantum Science & Engineering
     institution: University of Massachusetts Amherst
     date_start: 2020-09-01
     date_end: 2026-05-31
@@ -58,7 +58,7 @@ education:
      ## text: 'Read Thesis'
       ##url: 'https://example.com'
     summary: |
-      GPA: 3.94/4.0
+      GPA: 3.93/4.0
       
       Courses included:
       - Maths: Ordinary Differential Equations, Linear Algebra, Calc I-III, Probability Theory, Bayesian Decision Theory
@@ -79,4 +79,4 @@ work:
 ---
 
 ## About Me
-Connor Casey is a junior at the University of Massachusetts Amherst, where he pursues a multidisciplinary curriculum in physics, computer science, mathematics, philosophy, and finance. His research interests focus on quantum networking, quantum error correction, and quantum optics, with an emphasis on enhancing the reliability and scalability of quantum communication systems. Under the mentorship of Professors Don Towsley at the Advanced Classical and Quantum Information Research Lab (ACQuIRe)—part of the NSF-funded Center for Quantum Networks (CQN)—he is developing an innovative satellite repeater chain architecture that utilizes entanglement for intersatellite quantum communication, facilitating a comparison between entanglement-based and QEC-based satellite chains. In the future, he hopes to continue working on problems related to distributed quantum computing and the quantum internet.
+Connor Casey is a junior at the University of Massachusetts Amherst, where he pursues a multidisciplinary curriculum in physics, computer science, mathematics, philosophy, and finance. His research interests focus on quantum networking, quantum error correction, and quantum optics, with an emphasis on enhancing the reliability and scalability of quantum communication systems. Under the mentorship of Professors Don Towsley at the Advanced Classical and Quantum Information Research Lab (ACQuIRe)—part of the NSF-funded Center for Quantum Networks (CQN)—he is developing an innovative satellite repeater chain architecture that utilizes entanglement for intersatellite quantum communication, facilitating a comparison between entanglement-based and QEC-based satellite chains. In the future, he hopes to continue tackling challenges in quantum networking to help realize a global quantum internet.
