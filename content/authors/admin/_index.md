@@ -44,8 +44,9 @@ interests:
   - Quantum Networking and Distributed Quantum Systems
   - Quantum Optics and Light-Matter Interactions
   - Design and Optimization of Quantum Repeaters
-  - Integrated Photonics for Scalable Quantum Networks
   - Quantum Error Correction (QEC)
+  - Tensor Networks & Quantum Many-Body Dynamics
+  - Integrated Photonics for Scalable Quantum Networks
 
 education:
   - area: BSc Quantum Science & Engineering
