@@ -29,8 +29,8 @@ publishDate: '2024-10-30T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: International Astronautical Congress 2024
+publication_short: IAC '24
 
 abstract: This study discusses the current state of FSO technology, as well as global trends and developments in the industrial ecosystem to identify obstacles to the full realization of optical space-to-ground communication networks. Additionally, link performance and network availability trade-off studies are presented, comparing overall system performance between portable and large OGS networks in conjunction with a constellation of small low Earth orbit (LEO) satellites. The paper provides an up-to-date overview and critical analysis of the FSO industry and assesses the feasibility of low-cost portable terminals as an alternative to larger high-capacity OGS systems. This initiative aims to better inform optical communications stakeholders, including governments, academic institutions, satellite operators, manufacturers, and communication service providers.
 
