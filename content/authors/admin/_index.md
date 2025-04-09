@@ -42,11 +42,12 @@ profiles:
 
 interests:
   - Quantum Networking and Distributed Quantum Systems
-  - Quantum Optics and Light-Matter Interactions
   - Design and Optimization of Quantum Repeaters
+  - Quantum Memories and Coherence
+  - Open Quantum Systems and Reservoir Engineering
   - Quantum Error Correction (QEC)
   - Tensor Networks & Quantum Many-Body Dynamics
-  - Integrated Photonics for Scalable Quantum Networks
+
 
 education:
   - area: BSc Quantum Science & Engineering

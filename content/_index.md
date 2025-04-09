@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Motivated by the vision of a global quantum internet, I am an undergraduate researcher at UMass Amherst exploring the cutting edge of quantum information science. My work spans quantum networking and distributed quantum systems, where I focus on designing and optimizing quantum repeaters, developing robust quantum memories, and investigating open quantum systems through reservoir engineering. I employ tensor networks to model quantum many-body dynamics, addressing decoherence challenges and incorporating quantum error correction to bolster reliability. By integrating theoretical insights, simulation tools, and system-level design, I strive to advance scalable and fault-tolerant quantum communication infrastructures. Ultimately, my goal is to bridge physical-layer breakthroughs with overarching network architectures, laying the groundwork for large-scale, practical quantum networks.
         
-        Please reach out to collaborate 😃
+        Please reach out if you are interested in collaborating! 
     design:
       columns: '1'
   - block: collection
