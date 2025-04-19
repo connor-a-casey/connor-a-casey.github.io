@@ -55,7 +55,7 @@ education:
     date_start: 2020-09-01
     date_end: 2026-05-31
 
-  - area: BSc Physics
+  - area: BSc Applied Physics
     institution: University of Massachusetts Amherst
     date_start: 2020-09-01
     date_end: 2026-05-31
