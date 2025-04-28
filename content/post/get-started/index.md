@@ -1,5 +1,5 @@
 ---
-title: Paper Accepted to IAC '25
+title: 🎉 Paper Accepted to IAC '25
 summary: Presenting at the Space-Based Optical and Quantum Communications Session.
 date: 2025-04-26
 
