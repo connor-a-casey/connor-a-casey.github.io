@@ -1,7 +1,7 @@
 ---
 title: International Astronautical Congress 2025
 
-event: IAC '25
+event: International Astronautical Congress (IAC) 2025
 event_url: https://www.iac2025.org/
 
 location: International Convention Centre Sydney
