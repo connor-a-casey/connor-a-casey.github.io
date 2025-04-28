@@ -6,15 +6,14 @@ date: 2025-04-26
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption:
 
 authors:
   - admin
   - Ted
 
 tags:
-  - Academic
-  - Conference
+  - Conferences
 ---
 
 
