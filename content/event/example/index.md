@@ -12,7 +12,7 @@ address:
   postcode: '2000'
   country: Australia
 
-summary: Novel quantum multii-mode quantum memory paper will be presented at the Space-Based Optical and Quantum Communications Session.
+summary: Presenting at the Space-Based Optical and Quantum Communications Session.
 abstract: 'Coming Soon'
 
 # Talk start and end times.
