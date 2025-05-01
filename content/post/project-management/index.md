@@ -1,13 +1,14 @@
 ---
-title: 🎉 Paper Accepted to The International Astronautical Congress
-summary: Presenting at the Space-Based Optical and Quantum Communications Session on October 2, 2025 in Sydney, Australia. 
-date: 2025-04-28
+title: ✅ Manage your projects
+summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+date: 2023-10-23
 authors:
   - admin
 tags:
-  - Conferences
+  - Hugo Blox
+  - Markdown
 image:
-  caption:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
