@@ -1,6 +1,6 @@
 ---
 title: Paper Accepted to IAC '24
-summary: Create a personal knowledge base and share your knowledge with your peers.
+summary: Our team's research on optimizing optical ground‑station networks for LEO constellations has been accepted to the Space Communications and Navigation Global Technical Session!
 date: 2024-05-22
 authors:
   - admin
