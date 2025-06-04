@@ -5,7 +5,7 @@ date: 2025-05-26
 authors:
   - admin
 tags:
-  - News
+  - Updates
 image:
   caption: 
 ---
