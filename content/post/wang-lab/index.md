@@ -1,7 +1,7 @@
 ---
 title: Joining the Wang Lab
 summary: I’m thrilled to join Chen Wang’s group to push the frontiers of bosonic error correction in superconducting circuits!
-date: 2024-05-26
+date: 2025-05-26
 authors:
   - admin
 tags:
