@@ -1,7 +1,7 @@
 ---
 title: Paper Accepted to IAC ’25
 summary: Our multi-mode quantum-memory concept for satellite quantum networks is headed to the 76th IAC in Sydney!
-date: 2025-06-04
+date: 2025-05-25
 authors:
   - admin
 tags:
