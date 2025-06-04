@@ -1,13 +1,23 @@
 ---
-title: Paper Accepted to IAC'24
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2024-5-14
+title: Paper Accepted to IAC '24
+summary: Create a personal knowledge base and share your knowledge with your peers.
+date: 2024-05-22
 authors:
   - admin
 tags:
   - Conferences
 image:
-  caption:
+  caption: 
 ---
 
-Advancing Free-Space Optical Communication System Architecture: Performance Analysis of Varied Optical Ground Station Network Configurations
+🚀 **We’re heading to Milan!** Our paper, *Advancing Free‑Space Optical Communication System Architecture: Performance Analysis of Varied Optical Ground‑Station Network Configurations*, has been accepted for presentation at the 75th International Astronautical Congress (IAC 2024).
+
+## What’s inside?
+
+- A concise review of the global FSO ecosystem and remaining engineering hurdles.
+- Comparative link‑budget and availability analysis of **portable vs. large‑aperture** optical ground stations.
+- System‑level trade‑offs for scaling LEO‑to‑ground optical constellations.
+
+**Authored by:** Eugene Rotherham, Connor Casey, Eva Fernandez Rodriguez *et al.*
+
+Stay tuned—we’ll share the presentation schedule and slides once the conference program is finalized. See you in Milan!
