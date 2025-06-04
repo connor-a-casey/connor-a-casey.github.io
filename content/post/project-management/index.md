@@ -1,14 +1,13 @@
 ---
-title: ✅ Manage your projects
+title: Paper Accepted to IAC'24
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+date: 2024-10-14
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - Conferences
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption:
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
