@@ -15,7 +15,6 @@ Catch us in the **Space-based Optical and Quantum Communications** session!
 
 ## What’s inside?
 
-- **Bandwidth boom:** We show how storing *multiple* spectral, temporal, or spatial photon modes in a single quantum-memory node can boost entanglement-distribution rates by an order of magnitude.  
-- **Smart synchronization:** A new timing protocol captures every incoming mode with sub-nanosecond precision, even amid satellite Doppler shifts.  
+- **Bandwidth boom:** We show how storing *multiple* spectral, temporal, or spatial photon modes in a single quantum-memory node can boost entanglement-distribution rates by an order of magnitude.
 
 Stay tuned—session details and slide links will drop once the final program is out. **See you Down Under!** 🐨🇦🇺
