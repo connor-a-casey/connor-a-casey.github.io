@@ -19,5 +19,5 @@ image:
 - **Tunable band-pass Filter:** Engineering a plunger-tuned cavity band-pass filter to clean up the control/readout chain and enable agile frequency routing.  
 - **QuTiP-driven design:** Running high-fidelity QuTiP simulations of driven-dissipative Hamiltonians to steer experiments with **fluxonium and transmon qubits**.  
 
-I’m beyond excited to collaborate with the talented researchers in the Wang Lab and to help build the next generation of fault-tolerant quantum hardware. Stay tuned for updated in the coming months!
+I’m beyond excited to collaborate with the talented researchers in the Wang Lab and to help build the next generation of fault-tolerant quantum hardware. Stay tuned for updates in the coming months!
 
