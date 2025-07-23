@@ -4,20 +4,20 @@ title: IEEE International Conference on Quantum Computing and Engineering (QCE)
 event:  Poster Session
 event_url: https://qce.quantum.ieee.org/2025/
 
-location: International Convention Centre Sydney
+location: Albuquerque Convention Center
 address:
-  street: 14 Darling Drive
-  city: Sydney
-  region: NSW
-  postcode: '2000'
-  country: Australia
+  street: 401 2nd St NW
+  city: Albuquerque
+  region: New Mexico
+  postcode: '87102'
+  country: USA
 
 summary: Presenting at the Space-Based Optical and Quantum Communications Session.
-abstract: 'Coming Soon'
+abstract: Quantum repeaters, the backbone of long‐distance quantum networks, are limited by the short coherence time of conventional memories.  Discrete time crystals (DTCs)—driven many-body phases that exhibit persistent sub-harmonic oscillations and thereby break discrete temporal symmetry—can shield encoded information from local perturbations, making them compelling candidates for next-generation, decoherence-resistant memories. In this work we introduce a tensor-network framework that models a quantum memory as a discrete time crystal (DTC).  We employ the time-evolving block-decimation (TEBD) algorithm to perform both real- and imaginary-time evolution of a matrix-product-state (MPS) representation, thereby efficiently capturing the large many-body Hilbert space while tracking entanglement growth, sub-harmonic spectral responses, and memory-fidelity metrics over experimentally relevant timescales.  By sweeping the drive strength, interaction range, and disorder, we map the phase diagram, pinpoint regimes that sustain time-crystalline order, and set the stage to model their coherence lifetimes. Our study seeks to understand the practical utility of this novel form of matter in realizing fault-tolerant quantum networks.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-23T15:00:00Z'
+date: '2025-09-31T15:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
