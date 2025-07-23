@@ -4,7 +4,7 @@ title: IEEE International Conference on Quantum Computing and Engineering (QCE)
 event:  Poster Session
 event_url: https://qce.quantum.ieee.org/2025/
 
-location: International Convention Centre Sydney
+location: Albuquerque Convention Center
 address:
   street: 401 2nd St NW
   city: Albuquerque
