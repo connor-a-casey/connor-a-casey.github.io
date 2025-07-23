@@ -1,5 +1,5 @@
 ---
-title: IEEE International Conference on Quantum Computing and Engineering (QCE)
+title: IEEE International Conference on Quantum Computing and Engineering (QCE '25)
 
 event:  Poster Session
 event_url: https://qce.quantum.ieee.org/2025/
@@ -12,12 +12,12 @@ address:
   postcode: '2000'
   country: Australia
 
-summary: Presenting at the Space-Based Optical and Quantum Communications Session.
+summary: Presenting at the Poster Session.
 abstract: 'Coming Soon'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-23T15:00:00Z'
+date: '2025-09-01T15:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
