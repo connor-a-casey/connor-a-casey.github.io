@@ -1,16 +1,16 @@
 ---
-title: IEEE International Conference on Quantum Computing and Engineering (QCE '25)
+title: IEEE International Conference on Quantum Computing and Engineering (QCE)
 
 event:  Poster Session
 event_url: https://qce.quantum.ieee.org/2025/
 
 location: International Convention Centre Sydney
 address:
-  street: 14 Darling Drive
-  city: Sydney
-  region: NSW
-  postcode: '2000'
-  country: Australia
+  street: 401 2nd St NW
+  city: Albuquerque
+  region: New Mexico
+  postcode: '87102'
+  country: USA
 
 summary: Presenting at the Poster Session.
 abstract: 'Coming Soon'
