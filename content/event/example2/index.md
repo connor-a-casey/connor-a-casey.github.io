@@ -13,7 +13,7 @@ address:
   country: USA
 
 summary: Presenting at the Poster Session.
-abstract: 'Coming Soon'
+abstract: Quantum memories are essential components in applications ranging from quantum computing to quantum communication networks. However, their practical utility is constrained by short decoherence times, motivating the search for new physical systems that can inherently protect stored information. Discrete time crystals (DTCs)—periodically driven many-body systems exhibiting stable subharmonic oscillations that break discrete time-translation symmetry—offer a promising approach, as they are theoretically able to shield encoded information from local perturbations, making them compelling candidates for next-generation, passively protected quantum memories. In this work, we employ a tensor-network framework that models a quantum memory as a DTC. We employ the time-evolving block-decimation (TEBD) algorithm to perform both real- and imaginary-time evolution of a matrix-product-state (MPS) representation, thereby efficiently capturing the large many-body Hilbert space while tracking entanglement growth, sub-harmonic spectral responses, and memory-fidelity metrics over experimentally relevant timescales. By sweeping the drive strength, interaction range, and disorder, we map the phase diagram, pinpoint regimes that sustain time-crystalline order, and set the stage to model their coherence lifetimes. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
