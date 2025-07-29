@@ -12,11 +12,11 @@ authors:
 #author_notes:
 
 
-date: '2024-10-30T00:00:00Z'
+date: '2025-10-30T00:00:00Z'
 doi: 'https://doi.org/10.48550/arXiv.2410.23470'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-30T00:00:00Z'
+publishDate: '2025-07-28T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 publication: IEEE International Conference on Quantum Computing and Engineering 2025
 publication_short: QCE '25
 
-abstract: This study discusses the current state of FSO technology, as well as global trends and developments in the industrial ecosystem to identify obstacles to the full realization of optical space-to-ground communication networks. Additionally, link performance and network availability trade-off studies are presented, comparing overall system performance between portable and large OGS networks in conjunction with a constellation of small low Earth orbit (LEO) satellites. The paper provides an up-to-date overview and critical analysis of the FSO industry and assesses the feasibility of low-cost portable terminals as an alternative to larger high-capacity OGS systems. This initiative aims to better inform optical communications stakeholders, including governments, academic institutions, satellite operators, manufacturers, and communication service providers.
+abstract: Quantum memories are essential components in applications ranging from quantum computing to quantum communication networks. However, their practical utility is constrained by short decoherence times, motivating the search for new physical systems that can inherently protect stored information. Discrete time crystals (DTCs)—periodically driven many-body systems exhibiting stable subharmonic oscillations that break discrete time-translation symmetry—offer a promising approach, as they are theoretically able to shield encoded information from local perturbations, making them compelling candidates for next-generation, passively protected quantum memories. In this work, we employ a tensor-network framework that models a quantum memory as a DTC. We employ the time-evolving block-decimation (TEBD) algorithm to perform both real- and imaginary-time evolution of a matrix-product-state (MPS) representation, thereby efficiently capturing the large many-body Hilbert space while tracking entanglement growth, sub-harmonic spectral responses, and memory-fidelity metrics over experimentally relevant timescales. By sweeping the drive strength, interaction range, and disorder, we map the phase diagram, pinpoint regimes that sustain time-crystalline order, and set the stage to model their coherence lifetimes.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2410.23470'
+url_pdf: 'https://drive.google.com/file/d/1Tsmuhf4YON7PWhD5zpYr5dhGYKv3eW-N/view?usp=drive_link'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
