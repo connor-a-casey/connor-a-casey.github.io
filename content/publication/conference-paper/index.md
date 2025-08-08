@@ -53,7 +53,7 @@ url_code: 'https://github.com/connor-a-casey/fso-simulation'
 url_dataset: 'https://www.dropbox.com/scl/fo/k7yug64a3rukr89p8xlmq/AH92crjcwRxoaDdJj1JSdmM?rlkey=i7putlvrf36inva68dfwipo6y&e=1&st=e0bcoyof&dl=0'
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1C2a6R-kwXnWX4NM4GX5KPdIWPat7gFpX/edit?usp=sharing&ouid=109062253904683875949&rtpof=true&sd=true'
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
 
