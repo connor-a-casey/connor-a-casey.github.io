@@ -1,7 +1,7 @@
 ---
 title: Paper Accepted to QCE ’25
-summary: Our tensor-network time-crystal paper is headed to Albuquerque!
-date: 2025-04-25
+summary: Our tensor-network time-crystal research is headed to Albuquerque!
+date: 2025-07-25
 authors:
   - admin
 tags:
