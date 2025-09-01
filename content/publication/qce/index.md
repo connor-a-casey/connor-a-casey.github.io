@@ -44,9 +44,9 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://drive.google.com/file/d/1Tsmuhf4YON7PWhD5zpYr5dhGYKv3eW-N/view?usp=drive_link'
-#url_code: ''
+url_code: 'https://github.com/connor-a-casey/time-crystal-tensor-network'
 #url_dataset: ''
-#url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1eRa4XqJ-R7rMqBr1thYpoIo_Qb99s1rS/view?usp=drive_link'
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
