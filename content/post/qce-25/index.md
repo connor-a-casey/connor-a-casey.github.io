@@ -20,5 +20,5 @@ Catch us in the **Quantum Technologies & Systems Engineering** track!
 - **Tensor-network power:** Using matrix-product-state (MPS) simulations with time-evolving block decimation (TEBD), we map the DTC phase diagram and track subharmonic order over experimentally relevant timescales.
 - **Noise resilience:** Our simulations show that DTC order can survive moderate environmental decoherence, hinting at a pathway toward robust, passively protected quantum memories.
 
-Stay tuned—session details and slides will be shared once the final program is released.  
+Catch me in the poster track on 9/2 and 9/4 (paper \#1296)!
 **See you in the Land of Enchantment!** 🌵🌌
