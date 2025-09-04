@@ -21,4 +21,5 @@ Catch us in the **Quantum Technologies & Systems Engineering** track!
 - **Noise resilience:** Our simulations show that DTC order can survive moderate environmental decoherence, hinting at a pathway toward robust, passively protected quantum memories.
 
 Catch me in the poster track on 9/2 and 9/4 (paper 1296)!
+
 **See you in the Land of Enchantment!** 🌵🌌
