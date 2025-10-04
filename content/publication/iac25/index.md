@@ -1,5 +1,5 @@
 ---
-title: 'Multi-Mode Quantum Memories For Hight-Throughput Satellite Entanglement Distribution'
+title: 'Multi-Mode Quantum Memories For High-Throughput Satellite Entanglement Distribution'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
