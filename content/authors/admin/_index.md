@@ -42,10 +42,11 @@ profiles:
 
 interests:
   - Quantum Networking and Distributed Quantum Systems
-  - Design and Optimization of Quantum Repeaters
-  - Open Quantum Systems and Reservoir Engineering 
-  - Quantum Memories and Coherence
-  - Quantum Error Correction (QEC)
+  - Quantum Memories
+  - Bosonic Quantum Error Correction (QEC)
+  - Hybrid Quantum Systems
+  - Non-Equilibrium Phases of Matter
+  - Quantum Simulation
   - Tensor Networks & Quantum Many-Body Dynamics
 
 
@@ -91,4 +92,4 @@ work:
 ---
 
 ## About Me
-Connor Casey is a senior at the University of Massachusetts Amherst, where he pursues a multidisciplinary curriculum in physics, computer science, electrical engineering, mathematics, philosophy, and finance. His research interests are centered on networking and distributed quantum computation, with a focus on exploring novel protocols and architectures that can efficiently integrate quantum systems. Under the mentorship of Professors Don Towsley at the Advanced Classical and Quantum Information Research Lab (ACQuIRe)—part of the NSF-funded Center for Quantum Networks (CQN)—he is currently benchmarking QEC-based and entanglement purification satellite repeater chains. In the future, he hopes to continue tackling challenges in quantum networking to help realize a global quantum internet.
+Connor Casey is a senior at the University of Massachusetts Amherst pursuing a multidisciplinary curriculum in physics, computer science, electrical engineering, mathematics, philosophy, and finance. On the theory side he works with Professor Don Towsley in the ACQuIRe Lab within the NSF Center for Quantum Networks on modeling quantum repeater architectures and quantum error correction for satellite links. On the experimental side he works with Professor Chen Wang in the Superconducting Quantum Information Lab on superconducting circuits, bosonic quantum error correction, microwave control, and cryogenic measurement. His interests center on networking and distributed quantum computation and on building quantum memories and control that scale. He plans to focus on experimental quantum physics in graduate school while continuing to bridge theory and practice on the path to a global quantum internet.

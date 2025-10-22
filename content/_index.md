@@ -34,9 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: Motivated by the vision of a global quantum internet, I am an undergraduate researcher at UMass Amherst exploring the cutting edge of quantum information science. My work spans quantum networking and distributed quantum systems, where I focus on designing and optimizing quantum repeaters, developing robust quantum memories, and investigating open quantum systems through reservoir engineering. I employ tensor networks to model quantum many-body dynamics, addressing decoherence challenges and incorporating quantum error correction to bolster reliability. By integrating theoretical insights, simulation tools, and system-level design, I strive to advance scalable and fault-tolerant quantum communication infrastructures. Ultimately, my goal is to bridge physical-layer discoveries with overarching network architectures, laying the groundwork for large-scale, practical quantum networks.
-        
-        Please reach out if you are interested in collaborating! 
+      text: I study how to move, store, and stabilize quantum information across distance, and how to implement these ideas in the lab. With Professor Don Towsley I evaluate quantum error correction and entanglement purification protocols for satellite repeater chains, build link budgets, and analyze resource tradeoffs for high throughput entanglement distribution. With Professor Chen Wang I work on superconducting circuit experiments, including reservoir engineered bosonic quantum error correction, tunable microwave cavity filters, device design and verification, and cryogenic measurement and control. By combining tensor network simulations and open system modeling with hands on microwave engineering and experiment, my goal is to realize robust quantum memories that help lower resource overhead, thus allowing fault-tolerant computation and networking. Please reach out if you are interested in collaborating!
     design:
       columns: '1'
   - block: collection
