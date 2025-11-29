@@ -41,7 +41,7 @@ tags:
   - Free-Space-Optics
 
 # Display this page in the Featured widget?
-#featured: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
