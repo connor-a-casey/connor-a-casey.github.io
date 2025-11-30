@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1Tsmuhf4YON7PWhD5zpYr5dhGYKv3eW-N/view?usp=drive_link'
+url_pdf: 'https://www.researchgate.net/publication/398120322_Time_Crystals_for_Quantum_Memories_A_Tensor-Network_Approach'
 url_code: 'https://github.com/connor-a-casey/time-crystal-tensor-network'
 #url_dataset: ''
 url_poster: 'https://drive.google.com/file/d/1eRa4XqJ-R7rMqBr1thYpoIo_Qb99s1rS/view?usp=drive_link'
