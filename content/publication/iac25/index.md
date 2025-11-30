@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 #url_pdf: 'https://arxiv.org/pdf/2410.23470'
-#url_code: 'https://github.com/connor-a-casey/fso-simulation'
+url_code: 'https://github.com/connor-a-casey/quantum-memory-satellite'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
