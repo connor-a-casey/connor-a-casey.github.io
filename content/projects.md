@@ -1,6 +1,6 @@
 ---
-title: 'Blogs'
-date: 2024-05-19
+title: 'Lectures'
+date: 2024-12-04
 type: landing
 
 design:
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Topics Top of Mind
+      title: Select Recorded Lectures
       filters:
         folders:
           - project
