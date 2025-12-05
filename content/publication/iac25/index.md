@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2512.00282'
+#url_pdf: 'https://arxiv.org/pdf/2410.23470'
 url_code: 'https://github.com/connor-a-casey/quantum-memory-satellite'
 #url_dataset: ''
 #url_poster: ''
