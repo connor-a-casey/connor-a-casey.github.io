@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Select Recorded Lectures
+      title: Select Recorded Lectures!
       filters:
         folders:
           - project
