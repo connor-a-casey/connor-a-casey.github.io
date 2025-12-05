@@ -1,6 +1,6 @@
 ---
 title: 'Lectures'
-date: 2024-12-04
+date: 2025-12-04
 type: landing
 
 design:
@@ -11,12 +11,12 @@ design:
 sections:
   - block: collection
     content:
-      title: Select Recorded Lectures!
+      title: Select Recorded Lectures
       filters:
         folders:
           - project
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 ---
