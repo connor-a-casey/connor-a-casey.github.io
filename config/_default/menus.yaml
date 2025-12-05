@@ -19,7 +19,7 @@ main:
  ## - name: Experience
  ##   url: experience/
  ##   weight: 20
-  - name: Blogs
+  - name: Lectures
     url: projects/
     weight: 30
  ## - name: Teaching
