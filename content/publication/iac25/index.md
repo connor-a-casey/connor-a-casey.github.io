@@ -16,7 +16,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2025-10-02T00:00:00Z'
-#doi: 'https://doi.org/10.48550/arXiv.2410.23470'
+doi: 'https://doi.org/10.48550/arXiv.2512.00282'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-10-02T00:00:00Z'
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: 'https://arxiv.org/pdf/2410.23470'
+url_pdf: 'https://arxiv.org/abs/2512.00282'
 url_code: 'https://github.com/connor-a-casey/quantum-memory-satellite'
 #url_dataset: ''
 #url_poster: ''
