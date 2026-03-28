@@ -350,7 +350,7 @@ body {
     align-items: center;
     justify-content: center;
     position: relative;
-    padding: 8rem 3rem 4rem;
+    padding: 8rem 3rem 10rem;
     background: var(--bg-primary);
 }
 
