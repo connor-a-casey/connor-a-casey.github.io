@@ -15,6 +15,7 @@
       <source src="assets/background.mp4" type="video/mp4">
     </video>
     <div class="background-overlay"></div>
+    <audio class="background-audio" autoplay loop preload="auto" src="assets/ambient.mp3"></audio>
   </div>
 
   <div class="page">
@@ -34,11 +35,79 @@
       </p>
       <p class="location">Based in New York, NY</p>
     </main>
+
+    <button class="audio-toggle" type="button" aria-pressed="false" aria-label="Mute audio">Mute</button>
   </div>
 
   <script>
     const video = document.querySelector(".background-video");
     video.playbackRate = 0.50;
+
+    const audio = document.querySelector(".background-audio");
+    const audioToggle = document.querySelector(".audio-toggle");
+    audio.volume = 0.3;
+
+    let userMuted = false;
+    let unlockArmed = false;
+
+    function setMuted(muted) {
+      userMuted = muted;
+      audio.muted = muted;
+      audioToggle.setAttribute("aria-pressed", String(muted));
+      audioToggle.textContent = muted ? "Unmute" : "Mute";
+      audioToggle.setAttribute("aria-label", muted ? "Unmute audio" : "Mute audio");
+    }
+
+    function playAudio() {
+      if (userMuted) return Promise.resolve();
+      audio.muted = false;
+      return audio.play();
+    }
+
+    function unlockAudio() {
+      unlockArmed = false;
+      if (!userMuted) {
+        audio.muted = false;
+        audio.play().catch(() => {});
+      }
+    }
+
+    function armUnlock() {
+      if (unlockArmed) return;
+      unlockArmed = true;
+      document.addEventListener("click", unlockAudio, { once: true, capture: true });
+      document.addEventListener("touchstart", unlockAudio, { once: true, capture: true });
+    }
+
+    async function initAudio() {
+      try {
+        await playAudio();
+        return;
+      } catch {
+        audio.muted = true;
+        try {
+          await audio.play();
+        } catch {
+          /* waiting for first gesture */
+        }
+        armUnlock();
+      }
+    }
+
+    audioToggle.addEventListener("click", (event) => {
+      event.stopPropagation();
+      setMuted(!userMuted);
+
+      if (userMuted) {
+        audio.pause();
+        return;
+      }
+
+      audio.play().catch(() => {});
+    });
+
+    initAudio();
+    window.addEventListener("load", initAudio);
   </script>
 </body>
 </html>
