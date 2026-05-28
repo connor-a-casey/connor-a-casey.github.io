@@ -43,22 +43,24 @@ body {
 .page {
   position: relative;
   z-index: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-rows: auto 1fr;
   min-height: 100vh;
   min-height: 100dvh;
   padding: clamp(1.25rem, 3vw, 2.5rem);
 }
 
 .header {
-  display: flex;
+  grid-column: 1 / -1;
+  grid-row: 1;
+  display: grid;
+  grid-template-columns: subgrid;
   align-items: stretch;
-  justify-content: space-between;
-  gap: 2rem;
 }
 
 .brand {
+  grid-column: 1;
   display: flex;
   align-items: center;
   line-height: 0;
@@ -70,9 +72,11 @@ body {
   height: clamp(5.5rem, 16vw, 9rem);
   width: auto;
   filter: brightness(0) invert(1);
+  transform: translateX(calc(-24 / 1541 * 100%));
 }
 
 .nav {
+  grid-column: 2;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -96,22 +100,22 @@ body {
 }
 
 .main {
-  display: flex;
+  grid-column: 1 / -1;
+  grid-row: 2;
+  display: grid;
+  grid-template-columns: subgrid;
   align-items: last baseline;
-  justify-content: space-between;
-  gap: 2rem;
-  flex-wrap: nowrap;
-  width: 100%;
+  align-self: end;
 }
 
 .intro {
+  grid-column: 1;
   font-size: 0.875rem;
   font-weight: 300;
   line-height: 1.65;
   letter-spacing: 0.01em;
   color: rgba(255, 255, 255, 0.92);
   white-space: nowrap;
-  flex-shrink: 0;
 }
 
 .intro a,
@@ -131,13 +135,13 @@ body {
 }
 
 .location {
-  flex-shrink: 0;
+  grid-column: 2;
+  justify-self: end;
   font-size: 0.875rem;
   font-weight: 300;
   line-height: 1.65;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  text-align: right;
   color: rgba(255, 255, 255, 0.92);
   white-space: nowrap;
 }
